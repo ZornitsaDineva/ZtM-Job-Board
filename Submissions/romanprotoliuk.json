@@ -1,0 +1,16 @@
+{
+  "name": "Roman Protoliuk",
+  "img": "https://avatars.githubusercontent.com/u/45060965?v=4",
+  "email": "romanprotoliuk",
+  "links": {
+    "website": "https://www.romanprotoliuk.com/",
+    "linkedin": "https://www.linkedin.com/in/roman-protoliuk-a5340a170/",
+    "github": "https://github.com/romanprotoliuk"
+  },
+  "jobTitle": "Front End Engineer",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "United States"
+  }
+}
